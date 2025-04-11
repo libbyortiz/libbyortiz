@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: call me/beep me
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have an Etsy shop!
+- My favorite topic is [QR Codes] (https://github.com/topics/qrcode).
 -->
